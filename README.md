@@ -1,2 +1,9 @@
-# trinhlazy.github.io
-A man falls in love through his eyes, a woman through her ears.
+```
+tuilazerotwo.github.io
+```
+
+# coded by tlz
+
+Contact me via:
+Discord: tlz
+
