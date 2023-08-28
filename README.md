@@ -1,9 +1,8 @@
 ```
-tuilazerotwo.github.io
+trinhlazygithub.io
 ```
 
-# coded by tlz
+# coded by trinhlazy
 
 Contact me via:
-Discord: tlz
-
+Discord: trinhlazy
